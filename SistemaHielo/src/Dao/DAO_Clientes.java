@@ -3,7 +3,7 @@ import java.sql.*;
 import java.util.*;
 import javax.swing.JOptionPane;
 import Resources.Conexion;
-import Models.Clientes;
+import  Models.Clientes;
 
 public class DAO_Clientes {
     //CONEXION A LA BASE DE DATOS
